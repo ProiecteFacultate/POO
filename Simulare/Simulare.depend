@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1653241522 source:d:\facultate\poo\simulare\main.cpp
+	"Produs.h"
+	"Carte.h"
+	"Dvd.h"
+	"Dvd_Muzica.h"
+	"Dvd_film.h"
+	"Colectie.h"
+	"Colectie_figurina.h"
+	"Colectie_Poster.h"
+	"TestParent.h"
+	"TestChild.h"
+	"TestParent2.h"
+	"TestChild2.h"
+	<iostream>
+	<vector>
+
+1653157501 source:d:\facultate\poo\simulare\src\carte.cpp
+	"Carte.h"
+	"Produs.h"
+	<iostream>
+	<string>
+	<vector>
+
+1653155558 d:\facultate\poo\simulare\include\carte.h
+	"Produs.h"
+	<iostream>
+	<string>
+	<vector>
+
+1653150703 d:\facultate\poo\simulare\include\produs.h
+	<iostream>
+	<string>
+	<vector>
+
+1652876298 source:d:\facultate\poo\simulare\src\colectie.cpp
+	"Colectie.h"
+	"Produs.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652875433 d:\facultate\poo\simulare\include\colectie.h
+	"Produs.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652876298 source:d:\facultate\poo\simulare\src\colectie_figurina.cpp
+	"Colectie_figurina.h"
+	"Colectie.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652874971 d:\facultate\poo\simulare\include\colectie_figurina.h
+	"Colectie.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652876438 source:d:\facultate\poo\simulare\src\colectie_poster.cpp
+	"Colectie_Poster.h"
+	"Colectie.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652875107 d:\facultate\poo\simulare\include\colectie_poster.h
+	"Colectie.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652876298 source:d:\facultate\poo\simulare\src\dvd.cpp
+	"Dvd.h"
+	"Produs.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652875433 d:\facultate\poo\simulare\include\dvd.h
+	"Produs.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652876298 source:d:\facultate\poo\simulare\src\dvd_film.cpp
+	"Dvd_film.h"
+	"Dvd.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652874623 d:\facultate\poo\simulare\include\dvd_film.h
+	"Dvd.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652876298 source:d:\facultate\poo\simulare\src\dvd_muzica.cpp
+	"Dvd_Muzica.h"
+	"Dvd.h"
+	<iostream>
+	<string>
+	<vector>
+
+1652874412 d:\facultate\poo\simulare\include\dvd_muzica.h
+	"Dvd.h"
+	<iostream>
+	<string>
+	<vector>
+
+1653149786 source:d:\facultate\poo\simulare\src\produs.cpp
+	"Produs.h"
+
+1653222591 d:\facultate\poo\simulare\include\testparent.h
+	<iostream>
+	<string>
+	<vector>
+
+1653221722 source:d:\facultate\poo\simulare\src\testparent.cpp
+	"TestParent.h"
+	<iostream>
+	<string>
+	<vector>
+
+1653222496 source:d:\facultate\poo\simulare\src\testchild.cpp
+	"TestChild.h"
+	"TestParent.h"
+	<iostream>
+	<string>
+	<vector>
+
+1653222098 d:\facultate\poo\simulare\include\testchild.h
+	"TestParent.h"
+	<iostream>
+	<string>
+	<vector>
+
+1653241233 source:d:\facultate\poo\simulare\src\testparent2.cpp
+	"TestParent2.h"
+	<iostream>
+	<string>
+	<vector>
+
+1653241538 d:\facultate\poo\simulare\include\testparent2.h
+	<iostream>
+	<string>
+	<vector>
+
+1653241477 source:d:\facultate\poo\simulare\src\testchild2.cpp
+	"TestChild2.h"
+	"TestParent2.h"
+	<iostream>
+	<string>
+	<vector>
+
+1653241333 d:\facultate\poo\simulare\include\testchild2.h
+	"TestParent2.h"
+	<iostream>
+	<string>
+	<vector>
+

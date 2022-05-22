@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1653237214 source:d:\facultate\poo\model_2\main.cpp
+	<iostream>
+	"Candidat.h"
+	"Candidat_IF_1.h"
+	"Candidat_IF_2.h"
+	"Candidat_ID_1.h"
+	"Candidat_ID_2.h"
+
+1653234814 source:d:\facultate\poo\model_2\src\candidat.cpp
+	"Candidat.h"
+	<iostream>
+	<vector>
+
+1653235823 d:\facultate\poo\model_2\include\candidat.h
+	<iostream>
+	<vector>
+
+1653235022 d:\facultate\poo\model_2\include\candidat_if_1.h
+	"Candidat.h"
+	<iostream>
+	<vector>
+
+1653237190 source:d:\facultate\poo\model_2\src\candidat_if_1.cpp
+	"Candidat_IF_1.h"
+	"Candidat.h"
+	<iostream>
+	<vector>
+	<string.h>
+
+1653236119 source:d:\facultate\poo\model_2\src\candidat_if_2.cpp
+	"Candidat_IF_2.h"
+	"Candidat.h"
+	<iostream>
+	<vector>
+	<string.h>
+
+1653235022 d:\facultate\poo\model_2\include\candidat_if_2.h
+	"Candidat.h"
+	<iostream>
+	<vector>
+
+1653238086 source:d:\facultate\poo\model_2\src\candidat_id_1.cpp
+	"Candidat_ID_1.h"
+	"Candidat.h"
+	<iostream>
+	<vector>
+	<string.h>
+
+1653235022 d:\facultate\poo\model_2\include\candidat_id_1.h
+	"Candidat.h"
+	<iostream>
+	<vector>
+
+1653236119 source:d:\facultate\poo\model_2\src\candidat_id_2.cpp
+	"Candidat_ID_2.h"
+	"Candidat.h"
+	<iostream>
+	<vector>
+	<string.h>
+
+1653235022 d:\facultate\poo\model_2\include\candidat_id_2.h
+	"Candidat.h"
+	<iostream>
+	<vector>
+
