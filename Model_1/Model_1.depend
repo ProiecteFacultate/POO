@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1653226540 source:d:\facultate\poo\model_1\main.cpp
+	<iostream>
+	"Produs.h"
+	"Comanda.h"
+	"Ospatar.h"
+
+1653227599 source:d:\facultate\poo\model_1\src\produs.cpp
+	"Produs.h"
+	<iostream>
+	<vector>
+
+1653227599 d:\facultate\poo\model_1\include\produs.h
+	<iostream>
+	<vector>
+
+1653227599 source:d:\facultate\poo\model_1\src\comanda.cpp
+	"Comanda.h"
+	"Produs.h"
+	<iostream>
+	<vector>
+
+1653227622 d:\facultate\poo\model_1\include\comanda.h
+	"Produs.h"
+	<iostream>
+	<vector>
+
+1653226486 source:d:\facultate\poo\model_1\src\ospatar.cpp
+	"Ospatar.h"
+	"Comanda.h"
+	<iostream>
+	<vector>
+
+1653216667 d:\facultate\poo\model_1\include\ospatar.h
+	"Comanda.h"
+	<iostream>
+	<vector>
+
